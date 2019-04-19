@@ -1,2 +1,0 @@
-# StringClass
-my string class
